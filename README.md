@@ -4,6 +4,8 @@
 
 - I’m currently available for new opportunities
 
+- I'm currently building API for a mobile banking project
+  
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
 - 👨‍💻 My projects are available [@biruk-bereka](https://biruk-bereka.github.io/portfolio-V0/)
