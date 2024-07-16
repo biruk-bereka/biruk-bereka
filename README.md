@@ -4,7 +4,7 @@
 
 - I’m currently available for new opportunities
 
-- I'm currently building API for a mobile banking project
+- I'm currently building estimator web app for startup company
   
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
